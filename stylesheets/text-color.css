@@ -1,0 +1,26 @@
+.orange-text{
+  color: #f15412;
+}
+
+.orange-text-bold{
+  color: #f15412;
+  font-weight: bold;
+}
+
+.black-text{
+  color: #000000;
+}
+
+.black-text-bold{
+  color: #000000 !important;
+  font-weight: bold;
+}
+
+.white-text{
+  color: #FFFFFF;
+}
+
+.white-text-bold{
+  color: #FFFFFF;
+  font-weight: bold;
+}

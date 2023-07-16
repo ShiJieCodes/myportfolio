@@ -1,0 +1,24 @@
+.orange{
+  background-color: #f15412;
+}
+
+.white{
+  background-color: #FFFFFF !important;
+}
+
+.black{
+  background-color: #000000;
+}
+
+
+.clear-white{
+  background-color: rgba(255, 255, 255, 0.8)
+}
+
+.clear-orange{
+  background-color: rgba(241, 84, 18, 0.9)
+}
+
+.clear-black{
+  background-color: rgba(0, 0, 0, 0.8)
+}
