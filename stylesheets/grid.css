@@ -19,6 +19,9 @@
   .grid {
     grid-template-columns: repeat(2, 1fr);
   }
+  .nomore2 {
+    margin-bottom: 5rem;
+  }
 }
 
 @media (max-width: 480px) {

@@ -9,21 +9,21 @@ body {
   background-color: #000000 !important;
 }
 
-.pri-font{
-  font-family: 'Bebas Neue', sans-serif !important;
+.pri-font {
+  font-family: "Bebas Neue", sans-serif !important;
 }
 
-.sec-font{
-  font-family: 'Montserrat', sans-serif !important;
+.sec-font {
+  font-family: "Montserrat", sans-serif !important;
 }
 
-.fontsize-tech{
+.fontsize-tech {
   font-size: 1.5rem;
 }
 
 .buttonurgent {
   color: #000000 !important;
   font-weight: bold !important;
-  background-color: #FFFFFF !important;
-  font-family: 'Montserrat', sans-serif !important;
+  background-color: #ffffff !important;
+  font-family: "Montserrat", sans-serif !important;
 }

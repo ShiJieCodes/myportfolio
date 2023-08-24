@@ -1,18 +1,18 @@
-.carousel-img-size{
+.carousel-img-size {
   object-fit: contain;
   object-position: center;
 }
 
-.carousel-size{
+.carousel-size {
   max-width: 400px;
   max-height: 400px;
 }
 
-.rela{
+.rela {
   position: relative;
 }
 
-.abso{
+.abso {
   display: inline-block;
   position: absolute;
   bottom: 0;
